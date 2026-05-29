@@ -59,7 +59,8 @@ The 3×3 board is numbered 1–9:
 - Press the corresponding key on the kit keypad to place your symbol
 - First player to get **3 in a row** (horizontal, vertical, or diagonal) wins
 - If all 9 cells are filled with no winner, the game is a **Draw**
-
+**Tera Terminal UI:**
+![Tera Terminal](images/tera.JPG)
 ---
 
 ## ⚙️ Hardware & I/O Map
@@ -116,8 +117,8 @@ The 3×3 board is numbered 1–9:
      │ LED rotate │  │ Exit prompt │
      └────────────┘  └─────────────┘
 ```
-
----
+**Kit 8086 Interfacing:**
+![Kit](images/kit_lcd_winning.JPG)
 
 ## 🧩 Subroutines
 
